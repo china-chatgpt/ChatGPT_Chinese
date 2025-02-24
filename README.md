@@ -2,9 +2,9 @@
 
 > **更新时间：2025年02月22日**  
 
-全面讲解 [**ChatGPT 中文版**](https://www.yixiaai.com) 的国内使用方法，为用户推荐**无需翻墙**的[**ChatGPT镜像网站**](https://chat.lify.vip)~
+全面讲解 [**ChatGPT 中文版**](https://chat.yixiaai.com) 的国内使用方法，为用户推荐**无需翻墙**的[**ChatGPT镜像网站**](https://www.yixiaai.com)~
 
-本指南提供 **ChatGPT 中文版使用指南**，汇总国内好用的 [**ChatGPT 镜像网站**](https://chat.lify.vip) 和 **官网使用教程**
+本指南提供 **ChatGPT 中文版使用指南**，汇总国内好用的 [**ChatGPT 镜像网站**](https://chat.yixiaai.com) 和 **官网使用教程**
 
 **支持 GPT-4、GPT-4o、o1、o3 及更多中文功能**，无论是工作、学习还是日常生活，都能满足你的需要~
 
@@ -12,7 +12,7 @@
 
 ## 为什么选择 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://www.yixiaai.com)是由 OpenAI 开发的 ChatGPT 模型的中文专业版本，为中文用户提供更流畅、更准确的 AI对话体验。
+[**ChatGPT 中文版**](https://chat.yixiaai.com)是由 OpenAI 开发的 ChatGPT 模型的中文专业版本，为中文用户提供更流畅、更准确的 AI对话体验。
 
 相比于官方，**ChatGPT 中文版**在以下方面更适合国内用户：
 
@@ -26,8 +26,8 @@
 
 以下是精选的国内优质 **ChatGPT 中文版镜像网站**，提供更高效的使用体验：
 
-- [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营近2年，支持 GPT-4、4o 以及 o1，支持 AI 绘画，扫码即可使用。
-- [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营近2年，支持 GPT-4、4o 以及 o1，提供 AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图。
+- [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - **ChatGPT中文版**，运营近2年，支持 GPT-4、4o 以及 o1，支持 AI 绘画，扫码即可使用。
+- [https://chat.lify.vip/](https://www.yixiaai.com/) - **ChatGPT镜像网站**，运营近2年，支持 GPT-4、4o 以及 o1，提供 AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图。
 - [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT-4、4o，简单便捷。
 - [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT-4、4o 支持 MJ 绘画。
