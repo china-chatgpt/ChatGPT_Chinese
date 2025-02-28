@@ -1,6 +1,6 @@
 # ChatGPT 中文版：ChatGPT 镜像网站免费推荐~【3月最新更新】 
 
-> **更新时间：2025年03月01日**  
+>更新时间: 2025-03-01   
 
 全面讲解 [**ChatGPT 中文版**](https://chat.yixiaai.com) 的国内使用方法，为用户推荐**无需翻墙**的[**ChatGPT镜像网站**](https://www.yixiaai.com)~
 
